@@ -6,9 +6,9 @@ import { Home, CreatePost } from "./pages";
 function App() {
   return (
     <BrowserRouter>
-      <header className="w-full flex justify-between items-center bg-white sm:px-8 px-4 py-4 border-b border-b-[#e6ebf4]">
+      <header className="w-full flex justify-between items-center bg-black sm:px-8 px-4 py-4 border-b border-b-[#e6ebf4]">
         <Link to="/">
-          <img src={logo} alt="logo" className="w-28 object-contain" />
+          <img src={logo} alt="logo" className="w-28 object-contain invert" />
         </Link>
         <Link
           to="/create-post"
@@ -23,6 +23,7 @@ function App() {
           <Route path="/create-post" element={<CreatePost/>}></Route>
         </Routes>
       </main>
+      <footer className="w-full flex justify-center  bg-black sm:px-8 px-4 py-4 border-b border-b-[#e6ebf4]  text-white">Desarrollado por Leonardo Tolaba - 2023</footer>
     </BrowserRouter>
   );
 }
