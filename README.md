@@ -16,9 +16,9 @@ To deploy this project run
 
 ## 🖼Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-`![Screenshoot1](https://ibb.co/nPLdWJS)`.
-`![Screenshoot2](https://ibb.co/ryQLNRX)`.
+![App Screenshot](https://ibb.co/nPLdWJS)
+![App Screenshot2](https://ibb.co/ryQLNRX)
+
 ## 🚀 About Me
 I am a Fullstack developer seeking to gain experience as I work on increasingly complex projects. I am open to new positions where I can continue to learn and contribute to this world of programming that I love so much.
 ## Authors
